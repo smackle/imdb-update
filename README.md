@@ -5,7 +5,7 @@ imdb
 
 An IMDB API for getting information on your favourite movies!
 
-## Note: This is an update version of imdb package. i have fixed some issues based for own usage.
+## Note: This is an update version of imdb package. i have fixed some issues for own usage.
 ## Installing
 Install via [npm](https://npmjs.com)
 
