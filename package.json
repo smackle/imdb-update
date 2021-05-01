@@ -1,5 +1,5 @@
 {
-  "name": "imdb",
+  "name": "@smackle/imdb",
   "version": "1.1.0",
   "description": "An IMDB API for getting information on your favourite movies!",
   "main": "index.js",
