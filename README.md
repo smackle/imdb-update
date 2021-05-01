@@ -20,7 +20,7 @@ To run the example:
 Provide the IMDB ID and go! Also see the `examples/` folder for inspiration!
 
 ```javascript
-var imdb = require('imdb');
+var imdb = require('@smackle/imdb');
 
 imdb('tt3659388', function(err, data) {
   if(err)
