@@ -5,11 +5,11 @@ imdb
 
 An IMDB API for getting information on your favourite movies!
 
-## Note: This is an update version of imdb package. i have fixed some issues for own usage.
+## Note: This is an updated version of imdb scraper package. I have fixed some issues for own usage.
 ## Installing
 Install via [npm](https://npmjs.com)
 
-    $ npm install imdb
+    $ npm install https://github.com/smackle/imdb-update
 
 ## Running / Building
 To run the example:
