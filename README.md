@@ -3,7 +3,7 @@ imdb
 
 An IMDB API for getting information on your favourite movies!
 
-## Note: This is an updated version of imdb scraper package. I have fixed some issues for own usage.
+## Note: This is an updated version of imdb scraper package. I have fixed some issues for my own usage.
 ## Installing
 Install via [npm](https://npmjs.com)
 
